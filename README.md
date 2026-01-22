@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Miranda! 👋
+Pedro Miranda
 
 ### Sobre Mim
 Estou iniciando minha jornada no desenvolvimento, unindo a infraestrutura de redes com a criatividade do design. Atualmente, focado em **Desenvolvimento Front-End, UX/UI Design e IoT**.
