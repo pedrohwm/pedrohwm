@@ -14,5 +14,5 @@
 ### 🚀 Sobre mim
 - 🎓 Graduando em **Sistemas para Internet** na **Universidade Federal de Santa Maria**.
 - 🚀 **Diretor Comercial na CompAct Jr.**, empresa júnior de TI da UFSM.
-- 💼 **Estagiário de TI na Irriga Global** — Focado em **Backend**, criação de automações e gerenciamento de bancos de dados.
+- 💼 **Assistente de TI na Irriga Global** — Focado em **Backend**, criação de automações e gerenciamento de bancos de dados.
 - 🔧 Focado em unir design funcional com infraestrutura tecnológica eficiente.
