@@ -6,9 +6,9 @@
   <a href="https://instagram.com/pedrohwm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-***web developer***
-
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohwm&layout=compact&theme=tokyonight"/>
+
+### ***web developer***
 
 ### skills & tools
 
