@@ -6,7 +6,7 @@
   <a href="https://instagram.com/pedrohwm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohwm&layout=compact&theme=tokyonight"/>
+<img align="right" height="160em" src="https://github-stats-extended.vercel.app/api/top-langs?username=pedrohwm&layout=compact&hide_title=true&langs_count=4&theme=dark_github"/>
 
 ### ***web developer***
 
